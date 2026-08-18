@@ -1,1 +1,1 @@
-# smjcakes.github.io
+# github.io
